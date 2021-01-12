@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GroguGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ED73722C-8B72-4111-9D54-39538B7D9C24}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GroguGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GroguGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{534F2983-1926-49A9-9692-953437923030}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GroguGame">
+      <UniqueIdentifier>{2ADB7733-C075-4FB8-BF60-D4EBC09B82C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GroguGame\GroguGame.Build.cs">
+      <Filter>Source\GroguGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GroguGame\GroguGame.cpp">
+      <Filter>Source\GroguGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GroguGame\GroguGame.h">
+      <Filter>Source\GroguGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GroguGame\GroguGameGameModeBase.cpp">
+      <Filter>Source\GroguGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GroguGame\GroguGameGameModeBase.h">
+      <Filter>Source\GroguGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

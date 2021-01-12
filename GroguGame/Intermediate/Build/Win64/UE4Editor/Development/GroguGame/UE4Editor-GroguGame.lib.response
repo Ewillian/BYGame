@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GroguGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\GroguGame\GroguGame\Intermediate\Build\Win64\GroguGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal\GroguGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\GroguGame.cpp.obj"
+"D:\Unreal\GroguGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\GroguGameGameModeBase.cpp.obj"
+"D:\Unreal\GroguGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\GroguGame.init.gen.cpp.obj"
+"D:\Unreal\GroguGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\GroguGameGameModeBase.gen.cpp.obj"
+"D:\Unreal\GroguGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\Default.rc2.res"
+/OUT:"D:\Unreal\GroguGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\UE4Editor-GroguGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_GroguGame

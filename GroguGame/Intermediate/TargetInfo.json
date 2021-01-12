@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GroguGame",
+			"Path": "D:\\Unreal\\GroguGame\\GroguGame\\Source\\GroguGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GroguGameEditor",
+			"Path": "D:\\Unreal\\GroguGame\\GroguGame\\Source\\GroguGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
