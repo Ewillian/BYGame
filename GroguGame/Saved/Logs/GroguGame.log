@@ -2363,3 +2363,444 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.16-18.17.19:974][ 64]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_MainMenuFD7203504B34EAE6C5842FBF2244E631.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/MainMenu/W_MainMenu.uasset'
 [2021.01.16-18.17.19:990][ 64]AssetCheck: New page: Asset Save: W_MainMenu
 [2021.01.16-18.17.19:990][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/W_MainMenu.W_MainMenu
+[2021.01.16-18.18.32:544][  2]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-18.18.32:572][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.16-18.18.32:572][  2]PIE: New page: PIE session: MainMenu (16 janv. 2021 à 20:18:32)
+[2021.01.16-18.18.32:599][  2]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.18.32:600][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000985s)
+[2021.01.16-18.18.32:601][  2]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.16-18.18.32:601][  2]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017BAC6C2C00), frame # 154002
+[2021.01.16-18.18.32:602][  2]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017B434E4E00), frame # 154002
+[2021.01.16-18.18.32:602][  2]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2021.01.16-18.18.32:602][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002688s)
+[2021.01.16-18.18.32:642][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.01.16-18.18.32:643][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.16-18.18.32:644][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.16-18.18.32:644][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.16-18.18.32:644][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.16-18.18.32:644][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.16-18.18.32:644][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.16-18.18.32:644][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.16-18.18.32:644][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.16-18.18.32:645][  2]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.16-18.18.32:645][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.16-18.18.32:651][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.16-18.18.32:651][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.01.16-18.18.32:677][  2]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Logitech G933 Gaming Wireless Headset)
+[2021.01.16-18.18.32:677][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.16-18.18.32:677][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.16-18.18.32:677][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.16-18.18.32:678][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.16-18.18.32:697][  2]LogInit: FAudioDevice initialized.
+[2021.01.16-18.18.32:710][  2]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2021.01.16-18.18.32:711][  2]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.01.16-19.18.32
+[2021.01.16-18.18.32:712][  2]LogWorld: Bringing up level for play took: 0.000453
+[2021.01.16-18.18.32:712][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.01.16-18.18.32:717][  2]PIE: Server logged in
+[2021.01.16-18.18.32:718][  2]PIE: Play in editor total start time 0,149 seconds.
+[2021.01.16-18.18.34:959][266]LogNet: Browse: /Game/Level/BaseLevel
+[2021.01.16-18.18.34:959][266]LogLoad: LoadMap: /Game/Level/BaseLevel
+[2021.01.16-18.18.34:959][266]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.18.34:960][266]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.18.34:960][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.18.35:033][266]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017B434E4E00), frame # 154266
+[2021.01.16-18.18.35:033][266]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017BAC6C2C00), frame # 154266
+[2021.01.16-18.18.35:035][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.01.16-18.18.35:040][266]LogAIModule: Creating AISystem for world BaseLevel
+[2021.01.16-18.18.35:040][266]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017BAC6C1000), frame # 154266
+[2021.01.16-18.18.35:040][266]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017BABF1ED40), frame # 154266
+[2021.01.16-18.18.35:040][266]LogLoad: Game class is 'GameModeBase'
+[2021.01.16-18.18.35:042][266]LogWorld: Bringing World /Game/Level/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2021.01.16-19.18.35
+[2021.01.16-18.18.35:042][266]LogWorld: Bringing up level for play took: 0.000768
+[2021.01.16-18.18.35:043][266]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.16-18.18.35:044][266]LogLoad: Took 0.084243 seconds to LoadMap(/Game/Level/BaseLevel)
+[2021.01.16-18.18.44:884][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-18.18.44:884][410]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BaseLevel
+[2021.01.16-18.18.44:885][410]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.18.44:885][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.18.44:891][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.16-18.18.44:895][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.18.44:953][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-18.18.44:954][410]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017BABF1ED40), frame # 155410
+[2021.01.16-18.18.44:954][410]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017BAC6C1000), frame # 155410
+[2021.01.16-18.18.44:956][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.01.16-18.18.45:000][411]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.01.16-18.19.28:332][366]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.20.12:236][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.20.12:619][389]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge21A130F44E32E17692C489A82D4D99C6.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.20.12:640][389]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.20.12:640][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.20.51:588][828]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.16-18.20.56:216][321]LogEditorTransaction: Undo Add Node
+[2021.01.16-18.21.05:034][258]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.16-18.21.21:769][171]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.16-18.21.46:974][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.21.47:011][139]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeBD0B53A84B4D23AC487E73B508A69DF0.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.21.47:030][139]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.21.47:030][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.22.03:054][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.22.03:094][ 36]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge3904BAA44A3EBAC667E0AE832AFA0379.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.22.03:114][ 36]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.22.03:114][ 36]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.22.47:306][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.22.47:349][163]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge17ED16374B32DFFFE49CA491F641E377.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.22.47:365][163]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.22.47:365][163]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.22.52:106][720]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-18.22.52:166][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.01.16-18.22.54:113][940]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-18.22.54:146][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.16-18.22.54:146][940]PIE: New page: PIE session: MainMenu (16 janv. 2021 à 20:22:54)
+[2021.01.16-18.22.54:146][940]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.22.54:147][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000880s)
+[2021.01.16-18.22.54:148][940]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.16-18.22.54:148][940]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017BAC773800), frame # 183940
+[2021.01.16-18.22.54:148][940]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017BC12BAC00), frame # 183940
+[2021.01.16-18.22.54:148][940]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2021.01.16-18.22.54:148][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002414s)
+[2021.01.16-18.22.54:190][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.01.16-18.22.54:191][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.16-18.22.54:191][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.16-18.22.54:191][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.16-18.22.54:191][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.16-18.22.54:191][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.16-18.22.54:191][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.16-18.22.54:191][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.16-18.22.54:191][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.16-18.22.54:192][940]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.16-18.22.54:192][940]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.16-18.22.54:197][940]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.16-18.22.54:197][940]LogAudioMixer: Display: 1: FrontRight
+[2021.01.16-18.22.54:225][940]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Logitech G933 Gaming Wireless Headset)
+[2021.01.16-18.22.54:225][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.16-18.22.54:226][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.16-18.22.54:226][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.16-18.22.54:226][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.16-18.22.54:246][940]LogInit: FAudioDevice initialized.
+[2021.01.16-18.22.54:280][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-18.22.54:280][940]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2021.01.16-18.22.54:281][940]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.01.16-19.22.54
+[2021.01.16-18.22.54:282][940]LogWorld: Bringing up level for play took: 0.000579
+[2021.01.16-18.22.54:282][940]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.01.16-18.22.54:284][940]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.16-18.22.54:290][940]PIE: Server logged in
+[2021.01.16-18.22.54:292][940]PIE: Play in editor total start time 0,15 seconds.
+[2021.01.16-18.22.55:359][ 53]LogNet: Browse: /Game/Level/BaseLevel
+[2021.01.16-18.22.55:359][ 53]LogLoad: LoadMap: /Game/Level/BaseLevel
+[2021.01.16-18.22.55:359][ 53]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.22.55:360][ 53]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.22.55:360][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.22.55:436][ 53]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017BC12BAC00), frame # 184053
+[2021.01.16-18.22.55:436][ 53]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017BAC773800), frame # 184053
+[2021.01.16-18.22.55:438][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.01.16-18.22.55:443][ 53]LogAIModule: Creating AISystem for world BaseLevel
+[2021.01.16-18.22.55:443][ 53]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017BB91A1400), frame # 184053
+[2021.01.16-18.22.55:443][ 53]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017BC0497600), frame # 184053
+[2021.01.16-18.22.55:443][ 53]LogLoad: Game class is 'GameModeBase'
+[2021.01.16-18.22.55:445][ 53]LogWorld: Bringing World /Game/Level/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2021.01.16-19.22.55
+[2021.01.16-18.22.55:446][ 53]LogWorld: Bringing up level for play took: 0.001056
+[2021.01.16-18.22.55:446][ 53]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.16-18.22.55:448][ 53]LogLoad: Took 0.088421 seconds to LoadMap(/Game/Level/BaseLevel)
+[2021.01.16-18.23.02:017][793]LogSlate: Window 'GroguGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.16-18.23.02:034][793]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BaseLevel
+[2021.01.16-18.23.02:034][793]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.23.02:034][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.02:040][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.16-18.23.02:044][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.02:104][793]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017BC0497600), frame # 184793
+[2021.01.16-18.23.02:104][793]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017BB91A1400), frame # 184793
+[2021.01.16-18.23.02:107][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.01.16-18.23.02:154][794]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.01.16-18.23.04:599][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.23.04:638][ 83]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeAB5F26F34AE39E01864F6EBD23F50E34.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.23.04:652][ 83]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.23.04:652][ 83]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.23.07:766][453]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-18.23.07:800][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.16-18.23.07:801][453]PIE: New page: PIE session: MainMenu (16 janv. 2021 à 20:23:07)
+[2021.01.16-18.23.07:801][453]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.23.07:802][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000845s)
+[2021.01.16-18.23.07:803][453]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.16-18.23.07:803][453]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017B1D31EA00), frame # 185453
+[2021.01.16-18.23.07:803][453]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017BC12B8680), frame # 185453
+[2021.01.16-18.23.07:803][453]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2021.01.16-18.23.07:803][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002468s)
+[2021.01.16-18.23.07:838][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.01.16-18.23.07:839][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.16-18.23.07:839][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.16-18.23.07:839][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.16-18.23.07:839][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.16-18.23.07:839][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.16-18.23.07:839][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.16-18.23.07:839][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.16-18.23.07:840][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.16-18.23.07:840][453]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.16-18.23.07:840][453]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.16-18.23.07:845][453]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.16-18.23.07:845][453]LogAudioMixer: Display: 1: FrontRight
+[2021.01.16-18.23.07:871][453]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Logitech G933 Gaming Wireless Headset)
+[2021.01.16-18.23.07:871][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.16-18.23.07:871][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.16-18.23.07:871][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.16-18.23.07:872][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.16-18.23.07:891][453]LogInit: FAudioDevice initialized.
+[2021.01.16-18.23.07:922][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-18.23.07:923][453]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2021.01.16-18.23.07:924][453]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.01.16-19.23.07
+[2021.01.16-18.23.07:924][453]LogWorld: Bringing up level for play took: 0.000501
+[2021.01.16-18.23.07:925][453]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.01.16-18.23.07:927][453]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.16-18.23.07:931][453]PIE: Server logged in
+[2021.01.16-18.23.07:933][453]PIE: Play in editor total start time 0,135 seconds.
+[2021.01.16-18.23.08:877][542]LogRenderer: Reallocating scene render targets to support 1280x724 Format 10 NumSamples 1 (Frame:90).
+[2021.01.16-18.23.08:935][542]LogRenderer: Reallocating scene render targets to support 1280x752 Format 10 NumSamples 1 (Frame:91).
+[2021.01.16-18.23.08:996][542]LogRenderer: Reallocating scene render targets to support 1280x808 Format 10 NumSamples 1 (Frame:92).
+[2021.01.16-18.23.09:054][542]LogRenderer: Reallocating scene render targets to support 1280x828 Format 10 NumSamples 1 (Frame:93).
+[2021.01.16-18.23.16:927][322]LogNet: Browse: /Game/Level/BaseLevel
+[2021.01.16-18.23.16:927][322]LogLoad: LoadMap: /Game/Level/BaseLevel
+[2021.01.16-18.23.16:928][322]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.23.16:928][322]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.23.16:928][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.16:998][322]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017BC12B8680), frame # 186322
+[2021.01.16-18.23.16:998][322]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017B1D31EA00), frame # 186322
+[2021.01.16-18.23.17:001][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.01.16-18.23.17:008][322]LogAIModule: Creating AISystem for world BaseLevel
+[2021.01.16-18.23.17:008][322]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017B2600DC00), frame # 186322
+[2021.01.16-18.23.17:008][322]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017BC12B82C0), frame # 186322
+[2021.01.16-18.23.17:008][322]LogLoad: Game class is 'GameModeBase'
+[2021.01.16-18.23.17:010][322]LogWorld: Bringing World /Game/Level/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2021.01.16-19.23.17
+[2021.01.16-18.23.17:010][322]LogWorld: Bringing up level for play took: 0.001122
+[2021.01.16-18.23.17:011][322]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.16-18.23.17:012][322]LogLoad: Took 0.085694 seconds to LoadMap(/Game/Level/BaseLevel)
+[2021.01.16-18.23.18:531][483]LogSlate: Window 'GroguGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.16-18.23.18:547][483]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BaseLevel
+[2021.01.16-18.23.18:548][483]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.23.18:548][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.18:554][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.16-18.23.18:558][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.18:628][483]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017BC12B82C0), frame # 186483
+[2021.01.16-18.23.18:628][483]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017B2600DC00), frame # 186483
+[2021.01.16-18.23.18:631][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.01.16-18.23.18:682][484]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.01.16-18.23.19:357][562]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-18.23.19:383][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.16-18.23.19:384][562]PIE: New page: PIE session: MainMenu (16 janv. 2021 à 20:23:19)
+[2021.01.16-18.23.19:384][562]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.23.19:385][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000877s)
+[2021.01.16-18.23.19:386][562]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.16-18.23.19:386][562]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017BAA31A800), frame # 186562
+[2021.01.16-18.23.19:386][562]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017BABEC42C0), frame # 186562
+[2021.01.16-18.23.19:386][562]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2021.01.16-18.23.19:386][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002410s)
+[2021.01.16-18.23.19:423][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.01.16-18.23.19:424][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.16-18.23.19:424][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.16-18.23.19:424][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.16-18.23.19:424][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.16-18.23.19:424][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.16-18.23.19:424][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.16-18.23.19:424][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.16-18.23.19:424][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.16-18.23.19:425][562]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.16-18.23.19:425][562]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.16-18.23.19:430][562]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.16-18.23.19:430][562]LogAudioMixer: Display: 1: FrontRight
+[2021.01.16-18.23.19:455][562]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Logitech G933 Gaming Wireless Headset)
+[2021.01.16-18.23.19:455][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.16-18.23.19:455][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.16-18.23.19:455][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.16-18.23.19:455][562]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.16-18.23.19:474][562]LogInit: FAudioDevice initialized.
+[2021.01.16-18.23.19:503][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-18.23.19:503][562]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2021.01.16-18.23.19:505][562]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.01.16-19.23.19
+[2021.01.16-18.23.19:505][562]LogWorld: Bringing up level for play took: 0.000452
+[2021.01.16-18.23.19:505][562]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.01.16-18.23.19:507][562]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.16-18.23.19:512][562]PIE: Server logged in
+[2021.01.16-18.23.19:513][562]PIE: Play in editor total start time 0,133 seconds.
+[2021.01.16-18.23.20:764][670]LogNet: Browse: /Game/Level/BaseLevel
+[2021.01.16-18.23.20:764][670]LogLoad: LoadMap: /Game/Level/BaseLevel
+[2021.01.16-18.23.20:765][670]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2021.01.16-18.23.20:765][670]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.23.20:765][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.20:837][670]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017BABEC42C0), frame # 186670
+[2021.01.16-18.23.20:837][670]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017BAA31A800), frame # 186670
+[2021.01.16-18.23.20:840][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.01.16-18.23.20:845][670]LogAIModule: Creating AISystem for world BaseLevel
+[2021.01.16-18.23.20:845][670]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017BB91A1400), frame # 186670
+[2021.01.16-18.23.20:845][670]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017BC0495080), frame # 186670
+[2021.01.16-18.23.20:845][670]LogLoad: Game class is 'GameModeBase'
+[2021.01.16-18.23.20:847][670]LogWorld: Bringing World /Game/Level/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2021.01.16-19.23.20
+[2021.01.16-18.23.20:847][670]LogWorld: Bringing up level for play took: 0.000789
+[2021.01.16-18.23.20:848][670]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.16-18.23.20:849][670]LogLoad: Took 0.084023 seconds to LoadMap(/Game/Level/BaseLevel)
+[2021.01.16-18.23.33:269][ 31]LogSlate: Window 'GroguGame Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.01.16-18.23.33:287][ 31]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BaseLevel
+[2021.01.16-18.23.33:287][ 31]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2021.01.16-18.23.33:287][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.33:296][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.16-18.23.33:300][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.16-18.23.33:362][ 31]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017BC0495080), frame # 188031
+[2021.01.16-18.23.33:362][ 31]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017BB91A1400), frame # 188031
+[2021.01.16-18.23.33:364][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.01.16-18.23.33:408][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.01.16-18.23.56:888][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.23.56:928][816]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge0FC495374B7BF6073D74CEAFBAC8DD05.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.23.56:945][816]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.23.56:945][816]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.26.57:576][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.26.57:633][397]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeBC17575744433A8227EF179523F6EC15.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.26.57:654][397]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.26.57:654][397]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.27.32:970][254]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-18.27.33:029][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.01.16-18.28.09:919][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.28.09:972][442]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeE6E2C2FA4F97D012D6EED49B5A3F7991.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.28.09:997][442]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.28.09:998][442]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.28.17:271][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.28.17:313][238]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeD39695594CCF303AC513D2A43E7B3D6A.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.28.17:331][238]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.28.17:331][238]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.28.36:400][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.28.36:443][462]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge27736A5C4639446B89474EA791DEBCAE.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.28.36:463][462]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.28.36:463][462]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.28.57:298][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.28.57:341][866]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeFAC5B9DC4B4657F9C1719DB4DAC82CEC.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.28.57:359][866]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.28.57:359][866]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.28.58:672][ 11]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-18.28.58:732][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.01.16-18.28.59:776][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.28.59:817][119]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge154E425F4F935C87C7CECA866CAE99AE.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.28.59:832][119]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.28.59:832][119]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.29.18:717][326]LogEditorTransaction: Undo Move Node
+[2021.01.16-18.29.19:123][343]LogEditorTransaction: Undo Move Node
+[2021.01.16-18.29.19:527][382]LogEditorTransaction: Undo Add Node
+[2021.01.16-18.29.20:412][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.29.20:453][477]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeA94B529A4397A7A96DFC5081E7279434.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.29.20:473][477]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.29.20:473][477]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.29.42:261][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.29.42:306][996]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge6307F8B5461A19B2DA895A81E1CF8F54.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.29.42:326][996]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.29.42:326][996]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.43.18:575][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.43.20:316][182]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge3B3CCF5743444E7EB4671C89D40221E8.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.43.20:354][182]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.43.20:354][182]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.43.26:226][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.43.26:273][533]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeB915DD224215012EE228438D02C35DE6.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.43.26:289][533]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.43.26:290][533]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.43.33:711][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.43.33:759][976]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeA549EFB748988B615572598A569BAB73.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.43.33:775][976]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.43.33:775][976]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.43.37:580][203]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-18.43.37:635][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.01.16-18.43.42:613][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.43.42:656][494]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge7677FBF544287B6442E0D3A9E8F92745.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.43.42:673][494]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.43.42:673][494]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.51.47:356][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.51.47:423][269]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge2E7C455A4AC37515D0F3C8803E18BB3F.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.51.47:447][269]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.51.47:447][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.52.11:448][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.52.11:491][572]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge667DE4F0497463699F9567B329138937.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.52.11:514][572]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.52.11:514][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.52.45:631][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.52.45:677][816]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeBCA8FF974652110926671493BD27B5DB.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.52.45:700][816]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.52.45:700][816]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.53.27:934][225]LogSlate: Took 0.071935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.16-18.54.05:393][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.54.05:448][439]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge7E6F9239464AC0944F5F4DB439389F28.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.54.05:466][439]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.54.05:466][439]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.54.42:068][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.54.42:115][601]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeCD1A96354F67E7DFF633018380C378CA.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.54.42:140][601]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.54.42:140][601]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.54.59:473][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.54.59:525][632]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge0C99875E4F8BF13C88275585F772745E.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.54.59:550][632]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.54.59:550][632]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.55.07:327][ 95]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-18.55.07:388][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.01.16-18.56.17:917][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.56.17:976][269]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeB345959A49DE6E7EBEAAAEB613416BB7.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.56.17:997][269]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.56.17:997][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.56.53:757][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.56.53:832][410]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeCB2C97A34B8B6F518393AD96D148DE23.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.56.53:853][410]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.56.53:853][410]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-18.57.28:679][251]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-18.57.28:748][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.01.16-18.58.33:656][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-18.58.33:705][129]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeDC6C059241BEB3AA76A4EDA06649CA12.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-18.58.33:726][129]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-18.58.33:726][129]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-19.00.19:750][283]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.00.19:815][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.01.16-19.00.59:554][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.01.16-19.00.59:556][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/MainMenu' took 0.041
+[2021.01.16-19.00.59:556][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameComponents/Widget/W_UserJauge] ([1] browsable assets)...
+[2021.01.16-19.00.59:556][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameComponents/Widget/W_UserJauge]
+[2021.01.16-19.00.59:609][644]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge_Auto12E98C36C44C03B2E1A1266AAC2572FB1.tmp' to '../../../../../Unreal/BYGame/GroguGame/Saved/Autosaves/Game/GameComponents/Widget/W_UserJauge_Auto1.uasset'
+[2021.01.16-19.00.59:610][644]LogFileHelpers: Auto-saving content packages took 0.054
+[2021.01.16-19.01.28:488][340]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.01.28:543][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.16-19.02.02:930][353]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.02.02:990][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.01.16-19.02.05:602][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-19.02.05:685][500]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeFFF1ADEF4E241F1299B9A5BD8F8AA2D2.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-19.02.05:713][500]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-19.02.05:713][500]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-19.02.58:932][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-19.02.58:988][632]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeC489EC44454D95190D01D6BFE8A94C55.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-19.02.59:006][632]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-19.02.59:006][632]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-19.03.03:712][914]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.03.03:766][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.01.16-19.04.13:627][ 28]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.04.13:683][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.01.16-19.05.04:832][ 72]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.16-19.05.16:372][763]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.05.16:430][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.01.16-19.05.22:811][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-19.05.22:872][127]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeE1385AA844D3C631649D80BE062C3B85.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-19.05.22:891][127]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-19.05.22:892][127]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-19.07.53:027][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-19.07.53:115][837]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge86BBFD6145AB55A39C2FE98E89D41086.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-19.07.53:135][837]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-19.07.53:135][837]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-19.08.10:211][847]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.08.10:296][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.01.16-19.11.00:046][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.01.16-19.11.00:048][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/MainMenu' took 0.045
+[2021.01.16-19.11.00:048][799]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameComponents/Widget/W_UserJauge] ([1] browsable assets)...
+[2021.01.16-19.11.00:049][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameComponents/Widget/W_UserJauge]
+[2021.01.16-19.11.00:116][799]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge_Auto26684F21E4A534DD2EAEBD1BA1293A0EE.tmp' to '../../../../../Unreal/BYGame/GroguGame/Saved/Autosaves/Game/GameComponents/Widget/W_UserJauge_Auto2.uasset'
+[2021.01.16-19.11.00:118][799]LogFileHelpers: Auto-saving content packages took 0.070
+[2021.01.16-19.15.02:743][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-19.15.02:835][185]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJaugeF7EB981B4B05E6EE3A2C66B5036BE322.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-19.15.02:858][185]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-19.15.02:858][185]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-19.15.21:059][240]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-19.15.22:939][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameComponents/Widget/W_UserJauge" FILE="../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset" SILENT=true
+[2021.01.16-19.15.23:002][341]LogSavePackage: Moving '../../../../../Unreal/BYGame/GroguGame/Saved/W_UserJauge5EB9FC0A49FC9B5CEE100BBE7B1D080A.tmp' to '../../../../../Unreal/BYGame/GroguGame/Content/GameComponents/Widget/W_UserJauge.uasset'
+[2021.01.16-19.15.23:021][341]AssetCheck: New page: Asset Save: W_UserJauge
+[2021.01.16-19.15.23:021][341]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameComponents/Widget/W_UserJauge.W_UserJauge
+[2021.01.16-19.15.27:795][626]BlueprintLog: New page: Compile W_UserJauge
+[2021.01.16-19.15.27:879][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.01.16-19.15.29:026][689]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-19.15.33:796][957]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.16-19.15.35:136][ 36]LogTemp: Repeating last play command: Selected Viewport
