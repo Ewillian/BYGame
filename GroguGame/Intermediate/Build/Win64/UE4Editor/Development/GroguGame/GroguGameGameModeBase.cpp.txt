@@ -1,7 +1,7 @@
-D:\Unreal\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\Definitions.GroguGame.h
-D:\Unreal\BYGame\GroguGame\Source\GroguGame\GroguGameGameModeBase.h
-D:\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Unreal\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Inc\GroguGame\GroguGameGameModeBase.generated.h
+F:\Docs\Cours\2020-2021\Game Design\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\Definitions.GroguGame.h
+F:\Docs\Cours\2020-2021\Game Design\BYGame\GroguGame\Source\GroguGame\GroguGameGameModeBase.h
+F:\Jeux\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Jeux\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Jeux\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Jeux\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\Docs\Cours\2020-2021\Game Design\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Inc\GroguGame\GroguGameGameModeBase.generated.h

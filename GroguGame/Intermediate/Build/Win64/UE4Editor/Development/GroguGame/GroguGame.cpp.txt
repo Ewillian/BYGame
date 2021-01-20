@@ -1,2 +1,2 @@
-D:\Unreal\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\Definitions.GroguGame.h
-D:\Unreal\BYGame\GroguGame\Source\GroguGame\GroguGame.h
+F:\Docs\Cours\2020-2021\Game Design\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\Definitions.GroguGame.h
+F:\Docs\Cours\2020-2021\Game Design\BYGame\GroguGame\Source\GroguGame\GroguGame.h

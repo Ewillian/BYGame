@@ -1,3 +1,3 @@
-D:\Unreal\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\Definitions.GroguGame.h
-D:\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Docs\Cours\2020-2021\Game Design\BYGame\GroguGame\Intermediate\Build\Win64\UE4Editor\Development\GroguGame\Definitions.GroguGame.h
+F:\Jeux\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Jeux\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

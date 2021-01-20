@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "GroguGame",
-			"Path": "D:\\Unreal\\BYGame\\GroguGame\\Source\\GroguGame.Target.cs",
+			"Path": "F:\\Docs\\Cours\\2020-2021\\Game Design\\BYGame\\GroguGame\\Source\\GroguGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "GroguGameEditor",
-			"Path": "D:\\Unreal\\BYGame\\GroguGame\\Source\\GroguGameEditor.Target.cs",
+			"Path": "F:\\Docs\\Cours\\2020-2021\\Game Design\\BYGame\\GroguGame\\Source\\GroguGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
