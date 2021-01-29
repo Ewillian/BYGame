@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"F:\\Docs\\Cours\\2020-2021\\Game Design\\BYGame\\GroguGame\\Source\\GroguGame\\GroguGame.Build.cs",
-		"F:\\Docs\\Cours\\2020-2021\\Game Design\\BYGame\\GroguGame\\Source\\GroguGame.Target.cs",
-		"F:\\Docs\\Cours\\2020-2021\\Game Design\\BYGame\\GroguGame\\Source\\GroguGameEditor.Target.cs"
+		"D:\\Unreal\\BYGame\\GroguGame\\Source\\GroguGame\\GroguGame.Build.cs",
+		"D:\\Unreal\\BYGame\\GroguGame\\Source\\GroguGame.Target.cs",
+		"D:\\Unreal\\BYGame\\GroguGame\\Source\\GroguGameEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }

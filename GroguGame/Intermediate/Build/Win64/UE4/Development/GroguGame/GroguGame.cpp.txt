@@ -1,0 +1,2 @@
+D:\Unreal\BYGame\GroguGame\Intermediate\Build\Win64\UE4\Development\GroguGame\Definitions.GroguGame.h
+D:\Unreal\BYGame\GroguGame\Source\GroguGame\GroguGame.h
