@@ -139,6 +139,8 @@ https://www.youtube.com/watch?v=5teVesj0_yo
 
 ### Musiques
 
+LucasArt
+
 ### Visuels
 
 ## 🦸‍♂️ Project's member / Membre du projet 🦸‍♂️
