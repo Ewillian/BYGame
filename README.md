@@ -34,7 +34,7 @@ C'est pour cela que la seule touche utilisable par le joueur pour intéragir est
 ## 🗜 Game components / Composants du jeu 🗜
 
 Le jeu est composé de 3 parties.
-Tout d'abord, Menu principal permettant d'accéder au jeu et au tutoriel. (Future foncrtionnalités prévues comme le choix de la taille d'écran et diverses options basiques).
+Tout d'abord, Menu principal permettant d'accéder au jeu et au tutoriel. (Future fonctionnalités prévues comme le choix de la taille d'écran et diverses options basiques).
 Ensuite, le tutoriel expliquant l'interface de jeu et comment ces composants vont intéragir avec le joueur.
 Enfin, le niveau principal où toute la magie opère.
 
